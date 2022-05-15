@@ -13,7 +13,6 @@ Contributions are very welcome
 # Issues
 -> The problem I`ve mainly encountered is the program checking ot of pygame before player inputs anything.
 
--> no random selection of words 
 
 The [gues](https://github.com/Dithsy/Guess-the-word-Pygame/blob/main/gues.py) file contains the code for the game.
 
